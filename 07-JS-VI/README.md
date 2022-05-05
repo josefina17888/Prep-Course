@@ -1,4 +1,4 @@
-![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
@@ -148,3 +148,7 @@ Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Pr
     </td>
   </tr>
 </table>
+
+---
+
+#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***07_js-vi*** de Slack

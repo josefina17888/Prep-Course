@@ -1,4 +1,4 @@
-![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
+![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
@@ -63,7 +63,7 @@ Y vice-versa.
 
 #### ***none***
 
-Definir como valor "none" hará que el elemento desaparezca completamente. No debe ser confundido con la regla `visibility: hidden;` dado que esta hace que el elemento sea invisible pero no lo elimina de la página (el espacio continuará ocupado por _algo_). Si un elemento está definido como `display: none;` no habrá signos de él en la página.
+Definir como valor "none" hará que el elemento desaparezca completamente. No debe ser confundido con la regla `visibility: hidden;` dado que esta hace que el elemento sea invisible pero no lo elimina de la página (el espacio continuará ocupado por *algo*). Si un elemento está definido como `display: none;` no habrá signos de él en la página.
 
 #### ***flex***
 
@@ -192,3 +192,7 @@ Abre una nueva ventana en el navegador y completa [homework.html](https://github
     </td>
   </tr>
 </table>
+
+---
+
+#### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***html-y-css*** de Slack
